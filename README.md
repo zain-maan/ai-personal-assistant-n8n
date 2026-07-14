@@ -1,3 +1,8 @@
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green)
+![Loveable](https://img.shields.io/badge/Loveable-Frontend-blue)
+![Google Workspace](https://img.shields.io/badge/Google-Workspace-red)
+
 # 🤖 AI Personal Assistant using n8n
 
 An AI-powered Personal Assistant built with **n8n**, **OpenAI**, and a **Loveable chat interface**.
